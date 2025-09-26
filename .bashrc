@@ -138,7 +138,7 @@ export PATH="$HOME/.local/bin:$PATH"
 
 
 # Alias for the bare git repo
-alias backup='/usr/bin/git --git-dir=/home/mlamb/dotfiles-backup/ --work-tree=/home/mlamb'
+alias backup='/usr/bin/git --git-dir=/home/mlamb/.dotfiles/ --work-tree=/home/mlamb'
 
 # Theme configuration for Oh My Posh
 eval "$(oh-my-posh init bash --config /home/mlamb/.cache/oh-my-posh/themes/dracula.omp.json)"

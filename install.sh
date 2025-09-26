@@ -4,7 +4,7 @@
 set -e
 
 # Aliases
-DOTFILES_DIR="$HOME/dotfiles"
+DOTFILES_DIR="$HOME/.dotfiles"
 
 clone_dotfiles_repo() {
     echo "Cloning dotfiles repository..."
