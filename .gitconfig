@@ -1,0 +1,18 @@
+[user]
+	email = ml227cr@student.lnu.se
+	name = Miki Lamberg
+[init]
+	defaultBranch = main
+[color]
+    ui = auto
+[alias]
+a = add --all
+ai = add -i
+amend = commit --amend --no-edit
+#############
+br = branch
+#############
+cm = commit -m
+#############
+st = status
+
